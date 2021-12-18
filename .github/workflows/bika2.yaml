@@ -27,7 +27,7 @@ jobs:
               run: python3 function/bika/bika.py
               env:
                   BIKA_USER: ${{ secrets.BIKA_USER2 }}
-                  BIKA_PASS: ${{ secrets.BIKA_PASS2 }}
+                  BIKA_PASS: ${{ secrets.BIKA_PASS }}
                   SEND_KEY: ${{ secrets.SEND_KEY }}
                   PUSH_KEY: ${{ secrets.PUSH_KEY }}
                   BARK_PUSH: ${{ secrets.BARK_PUSH }}
