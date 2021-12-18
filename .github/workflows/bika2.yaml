@@ -1,4 +1,4 @@
-name: 哔咔漫画自动打哔咔
+name: 哔咔2
 
 on:
     workflow_dispatch:
