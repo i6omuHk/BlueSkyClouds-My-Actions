@@ -26,8 +26,8 @@ jobs:
             - name: "运行 哔咔漫画自动打哔咔"
               run: python3 function/bika/bika.py
               env:
-                  BIKA_USER: ${{ secrets.BIKA_USER }}
-                  BIKA_PASS: ${{ secrets.BIKA_PASS }}
+                  BIKA_USER: ${{ secrets.BIKA_USER2 }}
+                  BIKA_PASS: ${{ secrets.BIKA_PASS2 }}
                   SEND_KEY: ${{ secrets.SEND_KEY }}
                   PUSH_KEY: ${{ secrets.PUSH_KEY }}
                   BARK_PUSH: ${{ secrets.BARK_PUSH }}
