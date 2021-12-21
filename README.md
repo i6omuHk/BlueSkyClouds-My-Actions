@@ -1,5 +1,6 @@
-# TG推送参数
+### Telegram 推送
 
-TG_BOT_TOKEN
-
-TG_USER_ID
+| Name              | Description |
+| ----------------- | ----------- |
+| TG_USER_ID        | 用户 ID      |
+| TG_BOT_TOKEN      | BOT TOKEN   |
