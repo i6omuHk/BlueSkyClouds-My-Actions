@@ -1,5 +1,0 @@
-TG推送参数
-
-TG_BOT_TOKEN
-
-TG_USER_ID
