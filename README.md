@@ -2,5 +2,5 @@
 
 | Name              | Description |
 | ----------------- | ----------- |
-| TG_USER_ID        | 用户 ID      |
-| TG_BOT_TOKEN      | BOT TOKEN   |
+| TG_USER_ID        | 用户ID      |
+| TG_BOT_TOKEN      | 机器人TOKEN   |
